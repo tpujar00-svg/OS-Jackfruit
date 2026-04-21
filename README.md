@@ -168,45 +168,44 @@ ls /dev/container_monitor  # should return "No such file or directory"
  
 ### Screenshot 1: Multi-Container Supervision
  
-<img width="790" height="162" alt="image" src="https://github.com/user-attachments/assets/76b1d4dd-c60a-41dd-96cb-7d28e476e907" />
+![Multi-Container Supervision](./screenshots/S1.jpeg)
  
 ---
  
 ### Screenshot 2: Metadata Tracking
  
-<img width="995" height="236" alt="image" src="https://github.com/user-attachments/assets/93cf7d5b-73ba-4701-adc5-277a1a305217" />
+![Metadata Tracking](./screenshots/S2.jpeg)
 
 ---
  
 ### Screenshot 3: Bounded-Buffer Logging
- 
+ ![Bounded-Buffer Logging](./screenshots/S3.jpeg)
  
 ---
  
 ### Screenshot 4: CLI and IPC
- 
+ ![CLI and IPC](./screenshots/S4.jpeg)
  
 ---
  
 ### Screenshot 5: Soft-Limit Warning
- 
+ ![Soft-Limit Warning](./screenshots/S5.jpeg)
  
 ---
  
 ### Screenshot 6: Hard-Limit Enforcement
- 
+ ![Hard-Limit Enforcement](./screenshots/S6.jpeg)
  
 ---
  
 ### Screenshot 7: Scheduling Experiment
- 
+ ![Scheduling Experiment](./screenshots/S7.jpeg)
  
 ---
  
 ### Screenshot 8: Clean Teardown
  
-<img width="1418" height="236" alt="image" src="https://github.com/user-attachments/assets/172debca-148c-4c23-8eb0-e0ef5ee2bf67" />
- 
+![Clean Teardown](./screenshots/S8.jpeg)
 ---
  
 ## 4. Engineering Analysis
